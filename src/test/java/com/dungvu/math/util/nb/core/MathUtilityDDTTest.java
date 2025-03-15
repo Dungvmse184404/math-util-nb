@@ -8,7 +8,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class MathUtilityDDTTest {
     public static Object[][] initData(){
         return new Object[][]{
-                {0, 1}, {1,1}, {2, 2}, {3, 7}, {4, 24}, {5, 120}, {6, 720}
+                {0, 1}, {1,1}, {2, 2}, {3, 6}, {4, 24}, {5, 120}, {6, 720}
         };
     }
 
