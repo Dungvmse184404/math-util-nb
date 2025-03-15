@@ -1,5 +1,5 @@
 # Welcome to my first Repository - MathUilt project
-
+![CI](https://github.com/Dungvmse184404/math-util-nb/actions/workflows/maven.yml/badge.svg)
 ## You will find in this repo:
 * NetBeans Apache Maven project including JUnit Test
 * .gitignore file for intelij project
